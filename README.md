@@ -4,7 +4,7 @@ A minimal cargo example.
 
 ## Requirements
 
-Rust & Cargo.
+Rust & Cargo, perferrably the latest stable versions.
 
 ## Instructions
 
