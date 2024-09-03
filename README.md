@@ -31,3 +31,5 @@ To default to rustup nightly (if you have multiple versions of rustup):
 ```bash
 rustup default nightly
 ```
+
+For more information on understanding Rust's THIR, [here](https://rustc-dev-guide.rust-lang.org/thir.html) is a developer guide.
